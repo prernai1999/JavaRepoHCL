@@ -20,7 +20,7 @@ public class HelloWorld {
        System.out.println("Mobile No is: " +MNo);
        System.out.println(c);
        System.out.println("Employee Age is: "+age);
-       System.out.println(e);
+       System.out.println("character is:" +e);
        System.out.println(f);
        System.out.println(g);
        System.out.println("floorNo is :" +floorNo);
